@@ -1,6 +1,6 @@
 # Canteen Group — сайт-визитка
 
-Статический сайт ТОО «Кантин Групп» (Canteen Group) (БИН 181140004678), бренд Rabbit Canteen.
+Статический сайт ТОО «Canteen Group (Кантин Групп)» (БИН 181140004678), бренд Rabbit Canteen.
 Основная цель — подтверждение компании в Meta Business Manager для WhatsApp Business API.
 
 Языки: русский (корень), казахский (`kk/`), английский (`en/`).
